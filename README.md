@@ -1,4 +1,7 @@
-# test coverage for  [sane (v1.6.0)](https://github.com/amasad/sane)  [![npm package](https://img.shields.io/npm/v/npmtest-sane.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sane) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sane.svg)](https://travis-ci.org/npmtest/node-npmtest-sane)
+# npmtest-sane
+
+#### basic test coverage for  [sane (v1.6.0)](https://github.com/amasad/sane)  [![npm package](https://img.shields.io/npm/v/npmtest-sane.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sane) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sane.svg)](https://travis-ci.org/npmtest/node-npmtest-sane)
+
 #### Sane aims to be fast, small, and reliable file system watcher.
 
 [![NPM](https://nodei.co/npm/sane.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sane)
